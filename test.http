@@ -1,0 +1,10 @@
+GET http://localhost:4000/api/cadex
+
+###
+
+POST http://localhost:4000/api/cadex
+Content-Type: application/json
+
+{
+  "name":"joe"
+}
